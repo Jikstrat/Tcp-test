@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Tcp-test/static/css/main.a346f13f.css",
+    "main.js": "/Tcp-test/static/js/main.aa974254.js",
+    "static/js/239.7e253672.chunk.js": "/Tcp-test/static/js/239.7e253672.chunk.js",
+    "static/js/213.9a79c5b7.chunk.js": "/Tcp-test/static/js/213.9a79c5b7.chunk.js",
+    "static/js/455.7c9cb493.chunk.js": "/Tcp-test/static/js/455.7c9cb493.chunk.js",
+    "static/js/453.3dbed50e.chunk.js": "/Tcp-test/static/js/453.3dbed50e.chunk.js",
+    "index.html": "/Tcp-test/index.html",
+    "main.a346f13f.css.map": "/Tcp-test/static/css/main.a346f13f.css.map",
+    "main.aa974254.js.map": "/Tcp-test/static/js/main.aa974254.js.map",
+    "239.7e253672.chunk.js.map": "/Tcp-test/static/js/239.7e253672.chunk.js.map",
+    "213.9a79c5b7.chunk.js.map": "/Tcp-test/static/js/213.9a79c5b7.chunk.js.map",
+    "455.7c9cb493.chunk.js.map": "/Tcp-test/static/js/455.7c9cb493.chunk.js.map",
+    "453.3dbed50e.chunk.js.map": "/Tcp-test/static/js/453.3dbed50e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a346f13f.css",
+    "static/js/main.aa974254.js"
+  ]
+}
